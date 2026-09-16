@@ -1,0 +1,11 @@
+[project]
+name = "mini-project"
+version = "0.1.0"
+description = "Week 4 Mini-Project: Restaurant AI Agent"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "groq>=1.7.0",
+    "langgraph>=1.2.11",
+    "python-dotenv>=1.2.3",
+]
